@@ -1,7 +1,7 @@
 "pool_list": [
   {
-    "pool_address": "pool.supportxmr.com:5555",
-    "wallet_address": "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc",
+    "pool_address": "xcash.herominers.com:10493",
+    "wallet_address": "XCBzxb7igt5YvbwtYCMPkEWRATpzrMYvU2PpTDi89bon7fYnJgYSeRS8EN5LLnPxgkgfsf3k1DZVn1bzccTFBNhpPGbJGDNQYwRE3Zf1XNiGpK",
     "rig_id": "",
     "pool_password": "ahmed",
     "use_nicehash": false,
@@ -10,4 +10,4 @@
     "pool_weight": 1
   }
 ],
-"currency": "monero7"
+"currency": "cryptonight_v8_double"
